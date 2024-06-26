@@ -1484,7 +1484,7 @@ export const customersData = [
 export const employeesData = [
   {
     EmployeeID: 1,
-    Name: 'Nancy Davolio',
+    Name: 'Naina Soni',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
     Country: 'USA',
@@ -1494,7 +1494,7 @@ export const employeesData = [
   },
   {
     EmployeeID: 2,
-    Name: 'Nasimiyu Danai',
+    Name: 'Mansi Sharma',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
@@ -1504,7 +1504,7 @@ export const employeesData = [
   },
   {
     EmployeeID: 3,
-    Name: 'Iulia Albu',
+    Name: 'Mohit Tyagi',
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
@@ -1514,7 +1514,7 @@ export const employeesData = [
   },
   {
     EmployeeID: 4,
-    Name: 'Siegbert Gottfried',
+    Name: 'Preeti Sharma',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
     Country: 'USA',
@@ -1524,7 +1524,7 @@ export const employeesData = [
   },
   {
     EmployeeID: 5,
-    Name: 'Omar Darobe',
+    Name: 'Piyush Soni',
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
